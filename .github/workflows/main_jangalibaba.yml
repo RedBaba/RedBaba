@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'jangalibaba'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_768efd8eb66548bb9e51ce33a1712444 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_8d1daad9f48a4c01a20e1ddee3fd8555 }}
